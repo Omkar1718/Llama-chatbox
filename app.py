@@ -32,7 +32,7 @@ def model_response(text: str):
 
 # Build the streamlit application
 st.title("Llama 3.3 70b")
-st.subheader("by Rajmane Om")
+st.subheader("by Rajmane Om ")
 
 # Add text area
 text = st.text_area("Ask any question : ")
